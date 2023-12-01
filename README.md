@@ -18,3 +18,6 @@ SQL Queries and Data Analysis:
 A series of complex SQL queries were devised to extract insightful information from the database. 
 Queries encompassed a wide range of analyses, including inventory price and value, category-wise inventory quantity and value, 
 brand-wise quantity and inventory value, total inventory statistics, store-wise inventory percentages, total sales, store-wise sales contribution, and top-selling products.
+
+<img width="678" alt="image" src="https://github.com/Sagarlimbachiya1993/Data-Analysis---SQL/assets/106364353/13750a68-d4a4-467c-b00a-a09644fdbcc1">
+<img width="454" alt="image" src="https://github.com/Sagarlimbachiya1993/Data-Analysis---SQL/assets/106364353/1e98a14f-8526-40b3-b350-a78cd4bc1da0">
